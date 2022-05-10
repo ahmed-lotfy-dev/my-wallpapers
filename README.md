@@ -1,2 +1,5 @@
-# my-wallpapers
-## aset of wallpapers for each operating system i'm on to make it chnge it randomly on-linux using variety &amp; on windows i do it on windows them background settings i add the folder and i change it randomly interval
+# My-Wallpapers
+## A set of wallpapers
+### Using it for each operating system
+#### I'm using it change randomly on-linux using variety 
+#### And on windows i do it using windows theme background settings i add the folder and i change it randomly interval
